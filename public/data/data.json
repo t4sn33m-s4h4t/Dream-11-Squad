@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "All-Rounder",
+    "batStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Medium",
+    "price": "5000",
+    "image": "Virat Kohli.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "batStyle": "Right-Handed",
+    "bowlingStyle": null,
+    "price": "2000",
+    "image": "Steve Smith.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Joe Root",
+    "country": "England",
+    "role": "Batsman",
+    "batStyle": "Right-Handed",
+    "bowlingStyle": null,
+    "price": "5000",
+    "image": "Joe Root.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "batStyle": "Right-Handed",
+    "bowlingStyle": null,
+    "price": "9000",
+    "image": "Babar Azam.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "batStyle": "Right-Handed",
+    "bowlingStyle": null,
+    "price": "8000",
+    "image": "Kane Williamson.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "batStyle": null,
+    "bowlingStyle": "Right-Arm Fast",
+    "price": "8500",
+    "image": "Jasprit Bumrah.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mitchell Starc",
+    "country": "Australia",
+    "role": "Bowler",
+    "batStyle": "Left-Handed",
+    "bowlingStyle": "Left-Arm Fast",
+    "price": "7500",
+    "image": "Mitchell Starc.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "batStyle": "Left-Handed",
+    "bowlingStyle": "Left-Arm Fast",
+    "price": "7000",
+    "image": "Trent Boult.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Kagiso Rabada",
+    "country": "South Africa",
+    "role": "Bowler",
+    "batStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": "6500",
+    "image": "Kagiso Rabada.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "All-Rounder",
+    "batStyle": "Right-Handed",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": "1000",
+    "image": "Pat Cummins.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "batStyle": "Left-Handed",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": "9500",
+    "image": "Ben Stokes.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Chris Gayle",
+    "country": "West Indies",
+    "role": "Batsman",
+    "batStyle": "Left-Handed",
+    "bowlingStyle": null,
+    "price": "8000",
+    "image": "Chris Gayle.jpg"
+  }
+]
