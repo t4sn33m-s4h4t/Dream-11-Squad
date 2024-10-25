@@ -21,3 +21,4 @@ The technologies used in **Dream 11 Squad** are listed below:
 2. **Favorite Player Section**: Users can easily browse the card layout which displays essential details and can select their favorite players from the cards by simply clicking on the "Choose Player" button.
 4. **Smooth User Experience**: The website uses React-Toastify to display friendly toast notifications instead of regular alerts. Every small message is shown in these toasts to improve user interaction.
 
+**[Visit Now](https://dream-11-squad.surge.sh/)**
