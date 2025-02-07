@@ -1,5 +1,6 @@
 # [Dream 11 Squad](https://dream-11-squad.surge.sh/)
 
+<img src="https://github.com/t4sn33m-s4h4t/Dream-11-Squad/blob/main/ss.png" />
 ### Brief Description
 **Dream 11 Squad** This application is for halal cricket betting. Users can buy players using free credits and must create a team of six players. That’s it! Additionally, users can enjoy a responsive navbar and a newsletter, which does not function like the navigation menus. But don't worry; it will be updated soon.
  
